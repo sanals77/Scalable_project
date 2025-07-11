@@ -1,0 +1,7 @@
+Performance Benchmark Results
+Dataset size: 5000 records
+Sequential time: 0.01s
+Parallel (2 cores) time: 0.04s
+Speedup: 0.35x
+Sequential results: {'positive': 768, 'negative': 260, 'neutral': 3972}
+Parallel results: {'positive': 768, 'negative': 260, 'neutral': 3972}

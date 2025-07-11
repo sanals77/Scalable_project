@@ -1,0 +1,2 @@
+Sentiment140 (for Twitter Sentiment Analysis)
+http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip

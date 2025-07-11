@@ -1,0 +1,7 @@
+KINESIS REAL-TIME STREAMING RESULTS
+========================================
+
+Records processed: 102
+Processing time: 31.44s
+Sentiment results: {'neutral': 81, 'positive': 12, 'negative': 9}
+Processing rate: 3.24 records/sec
